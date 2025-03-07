@@ -25,7 +25,7 @@ This repository features a microservice designed to handle shopping lists, inclu
     ```
 
 # UML Diagram
-  ![](/images/UMLdiagram.png)
+  ![](images/UMLdiagram.png)
 
 # ***Endpoints***
 
